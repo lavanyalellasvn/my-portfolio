@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* This ensures Tailwind looks for the .dark class on the <html> element */
+@variant dark (&:where(.dark, .dark *));
+
+html {
+  scroll-behavior: smooth;
+}
