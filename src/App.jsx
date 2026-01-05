@@ -59,7 +59,6 @@ const App = () => {
           </div>
         </div>
       </nav>
-
       {/* Hero Section */}
       <header id="about" className="pt-40 pb-20 px-6">
         <div className="max-w-5xl mx-auto">
