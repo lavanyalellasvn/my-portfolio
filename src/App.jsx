@@ -206,8 +206,8 @@ const App = () => {
               <Eye size={18} /> View Resume
             </a>
             <a 
-              href="/Chandana_Lavanya_Resume.pdf" 
-              download="Chandana_Lavanya_Resume.pdf"
+              href="/Lella__resume.pdf" 
+              download="Lella__resume.pdf"
               className="flex items-center justify-center gap-2 px-8 py-4 bg-sky-500 text-white rounded-lg font-bold hover:bg-sky-600 transition-all shadow-lg shadow-sky-500/25"
             >
               <Download size={18} /> Download Resume.pdf
