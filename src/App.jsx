@@ -198,7 +198,7 @@ const App = () => {
           
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <a 
-              href="/Chandana_Lavanya_Resume.pdf" 
+              href="/Lella__Resume.pdf" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 px-8 py-4 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-lg font-bold hover:border-sky-500 transition-all shadow-sm"
@@ -206,8 +206,8 @@ const App = () => {
               <Eye size={18} /> View Resume
             </a>
             <a 
-              href="/Lella__resume.pdf" 
-              download="Lella__resume.pdf"
+              href="/Lella__Resume.pdf" 
+              download="Lella__Resume.pdf"
               className="flex items-center justify-center gap-2 px-8 py-4 bg-sky-500 text-white rounded-lg font-bold hover:bg-sky-600 transition-all shadow-lg shadow-sky-500/25"
             >
               <Download size={18} /> Download Resume.pdf
