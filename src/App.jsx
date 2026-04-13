@@ -89,9 +89,9 @@ const App = () => {
             <div className="relative pl-8 border-l-2 border-slate-200 dark:border-slate-800 group hover:border-sky-500 transition-colors">
               <div className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-slate-200 dark:bg-slate-800 group-hover:bg-sky-500 transition-all"></div>
               <h3 className="text-2xl font-bold">Web Developer @ UAB Library</h3>
-              <p className="text-sky-500 font-bold mb-4">React.js | Java Spring Boot | AWS</p>
+              <p className="text-sky-500 font-bold mb-4">React.js | Django | AWS</p>
               <ul className="text-slate-600 dark:text-slate-400 space-y-2 list-disc ml-4 font-sans">
-                <li>Improved API response time by **35%** using Java Spring Boot microservices.</li>
+                <li>Improved API response time by **35%** using Django.</li>
                 <li>Managed deployment on **AWS EC2 and S3**, achieving 99.5% uptime.</li>
                 <li>Optimized resource efficiency by **20%** via cloud configuration tuning.</li>
               </ul>
